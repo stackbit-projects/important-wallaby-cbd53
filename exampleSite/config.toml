@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params]
 author = ""
-description = "John Doe's personal website"
+description = "pirate's personal website"
 keywords = "blog,developer,personal"
 info = "Full Stack DevOps and Magician"
 avatarURL = "images/avatar.jpg"
