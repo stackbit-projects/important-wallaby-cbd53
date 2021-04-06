@@ -35,8 +35,7 @@ other = "Sorry, this page does not exist."
 [head_back]
 other = "You can head back to <a href=\"{{ . }}\">homepage</a>."
 
-[powered_by]
-other = "Powered by"
+
 
 [see_also]
 other = "See also in"
